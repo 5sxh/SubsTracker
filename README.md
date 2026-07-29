@@ -70,7 +70,7 @@ npm run deploy:safe
 
 | Secret | 说明 |
 |--------|------|
-| `CLOUDFLARE_API_TOKEN` | 需 Workers 编辑 + KV 编辑权限 |
+| `CLOUDFLARE_API_TOKEN` | 需 Workers脚本 编辑 + KV 编辑权限 |
 | `CLOUDFLARE_ACCOUNT_ID` | 可选 |
 
 3. 推送到 `master` / `main` 或手动运行 **Deploy** workflow  
